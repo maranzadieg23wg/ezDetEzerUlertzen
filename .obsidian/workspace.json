@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "DNS.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Apache.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",

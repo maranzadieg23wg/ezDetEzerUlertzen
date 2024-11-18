@@ -8,7 +8,7 @@
         ServerAlias mugatua
         DocumentRoot /home/mugatua
 
-
+		Alias /mugatuak /var/www/edozeinToki
         <Directory /home/mugatua>
                 AllowOverride All
                 Options Indexes FollowSymLinks
