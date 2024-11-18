@@ -34,3 +34,16 @@ Require valid-user
 
 Options -Indexes
 ```
+Sortu
+```
+sudo -cb /etc/apache/giltzak/.htpasswd admin admin
+```
+
+activatu 
+```
+sudo a2endom ssl
+```
+kendu web gunea 
+```
+sudo a2dissite 000-
+```
