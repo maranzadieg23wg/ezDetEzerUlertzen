@@ -39,6 +39,16 @@ bind-address = 0.0.0.0 ←fitxategian gehitu edo aldatu
 sudo systemctl restart mysql
 ```
 
+# Bezero
+## Instalatu
+```
+sudo apt instal mysql-client -y
+```
+
+## Konektatu
+```
+`mysql -h 192.168.1.100 -u root -p`
+```
 # Rolak
 
 ## Sortu
